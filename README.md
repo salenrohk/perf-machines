@@ -10,7 +10,7 @@ The VMini is when I want to play the synth live on the fly (very rarely), and I 
 
 This is the main purpose of each machine:
 
-###Akai Midimix:
+### Akai Midimix:
 With this, I control the mixer and some effects.
 ![Layout](images/midimix.png)
 - A: High and Low Pass for each mixer bus
@@ -21,7 +21,7 @@ With this, I control the mixer and some effects.
 - F: Switch between Mute or Solo for C
 - G: Master volume fader
 
-###Akai APC Mini MK2:
+### Akai APC Mini MK2:
 The 4x12 button pattern of the Akai Fire is good for handle patterns, but not the entire session workflow, so I get this one to handle that.
 ![Layout](images/apcmini.png)
 - A: Pattern Launch
